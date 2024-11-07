@@ -11,6 +11,7 @@ En este repositorio, se encuentra todo el contenido de la página web, sus carpe
 - home.html: archivo html, que presenta la estructura del contenido de la sección home, página principal del sitio. 
 - equipment.html: archivo html, que presenta la estructura del contenido de la sección equipo de la página web. 
 - assets: archivo que contiene recursos graficos dentro del se encuentra la carpeta img, que contiene todas las imagenes utilizadas en el sitio como el logo y el equipo medico y la carpeta styles la cual agrupa los estilos scss utilizados en el proyecto, esta carpeta esta creada bajo la metodología de carpetas 7-1, la cual se distribuye de la siguiente manera:
+  
   - abstract: carpeta que contiene 2 archivos asociados a las variables creadas mediante sass y mixims
   - base: carpeta que contine archivo asociada a la tipografía general asociada a la página web.
   - components: carpeta que contine código sass asociado a 3 componentes desarrollados buttons, card, map.
