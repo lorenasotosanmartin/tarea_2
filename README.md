@@ -1,4 +1,4 @@
-# Ejercicio practico 2: 
+# Ejercicio practico 2: Modularización de Estilos y Responsividad del Sitio Web del Hospital
 ## Descripción
 El repositorio "tarea_2" contiene el codigo desarrollado para una página web de “Clínica Chillán”. Para el desarrollo de este proyecto se han utilizado los lenguajes HTML, el preprocesador SASS y algunos recursos extras como iconos de Bootstrap.
 ### Explicación de vistas
