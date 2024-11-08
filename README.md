@@ -6,7 +6,7 @@ El repositorio "tarea_2" contiene el codigo desarrollado para una página web de
 - Equipment: en esta sección de la pagina web, se presenta el compromiso de la clínica con la excelencia profesional y se presenta a parte de su equipo médico.
 - Contact: en esta sección de la página web, se presenta un formulario para que los usuarios envíen sus consultas, dudas u sugerencias y puedan ser atendidos por los funcionarios administrativo, además, se presenta un mapa con su ubicación de la clínica.
 
-###Estrucutura de carpetas
+### Estrucutura de carpetas
 - contact.html: archivo html, que presenta la estructura del contenido de la sección contacto de la página web. 
 - home.html: archivo html, que presenta la estructura del contenido de la sección home, página principal del sitio. 
 - equipment.html: archivo html, que presenta la estructura del contenido de la sección equipo de la página web. 
